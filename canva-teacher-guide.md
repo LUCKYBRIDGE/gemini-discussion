@@ -6,7 +6,19 @@
 
 생성형 AI는 질문과 맥락에 따라 글이나 이미지 등을 만든다. 언어 모델은 학습한 말의 패턴을 바탕으로 문맥에 이어질 말을 예측한다. 가상 인물의 관점과 반론을 빠르게 경험할 수 있지만, 실제처럼 보이는 이야기를 지어내거나 편견을 반복할 수 있다. 학생은 원문을 확인하고 자기 말로 판단을 설명한다.
 
-2026년 11월 17일 기준 Google Workspace for Education 기본 Gemini 앱은 전 연령 대상이다. 일부 기능에는 별도 연령 제한이 적용되므로 실제 학생 계정에서 Gem 공유와 노트북 열기를 확인한다. ChatGPT는 만 13세 미만 교육 상황에서 성인이 직접 조작해야 하고, Microsoft의 교육용 Study and Learn Agent는 만 13세 이상을 대상으로 한다. [Google 교육용 계정 안내](https://support.google.com/gemini/answer/14620100?co=DASHER._Family%3DEducation&hl=en) · [ChatGPT 연령 안내](https://help.openai.com/en/articles/8313401-is-chatgpt-safe-for-all-ages) · [Microsoft 교육용 도구 안내](https://support.microsoft.com/en-us/education/copilot/study-learn-agent)
+**2026년 11월 17일 기준 이용 조건과 수업 활용 예**
+
+| 서비스 | 연령과 접근 조건 | 초등 수업 활용 예 |
+|---|---|---|
+| Gemini 앱 | 교육용 Workspace 기본 서비스는 전 연령 대상이며 학교 관리자가 활성화한다. Google AI Pro for Education은 만 18세 이상이다. | 학교 계정에서 질문과 답을 주고받는다. [공식 안내](https://support.google.com/gemini/answer/14620100?co=DASHER._Family%3DEducation&hl=en) |
+| Classroom Gem | 교사와 학생 모두 Gemini 및 Gem 공유가 활성화되어야 한다. 학생 개인 계정에 배정한 Gem은 2026년 11월 17일부터 접근할 수 없다. | 가상 인물 인터뷰나 상대편과 연습 토론을 한다. [공식 안내](https://support.google.com/edu/classroom/answer/16534159?hl=ko) |
+| Gemini 노트북 | 교육용 Workspace는 전 연령 대상이다. 학교 관리자가 학생 계정의 노트북 이용을 활성화해야 배정된 노트북을 열 수 있다. | 교사가 제공한 자료에 질문하고 인용으로 원문을 확인한다. [공식 안내](https://support.google.com/gemininotebook/answer/16164461?hl=en) |
+| ChatGPT | 만 13세 이상이며 만 13~17세는 보호자 동의가 필요하다. 만 13세 미만 교육 상황에서는 성인이 직접 조작한다. | 교사가 익명 질문을 입력하고 학생과 답변을 검토한다. [공식 안내](https://help.openai.com/en/articles/8313401-is-chatgpt-safe-for-all-ages) |
+| Microsoft Copilot | 교육용 Study and Learn Agent는 만 13세 이상이다. 13~17세는 관리자가 Copilot Chat을 활성화한다. | 이용 조건을 충족하는 학생이 학습 자료에 질문한다. [공식 안내](https://support.microsoft.com/en-us/education/copilot/study-learn-agent) |
+| Perplexity | 만 13세 이상이며 미성년자는 보호자의 약관 동의가 필요하다. | 교사가 관련 출처를 탐색하고 학생은 선정된 원문을 읽는다. [공식 약관](https://www.perplexity.ai/en-GB/hub/legal/terms-of-service) |
+| Claude | 일반 소비자용은 만 18세 이상이다. | 교사가 반론 예시나 질문 카드 초안을 만든다. [공식 안내](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) |
+| Canva Education | Canva AI는 원칙적으로 만 13세 이상이며 Canva Education에서 교사 감독 아래 이용하는 경우 예외가 있다. | 토의를 마친 뒤 모둠 제안을 포스터로 표현한다. [공식 안내](https://www.canva.com/policies/ai-safety/) |
+| Khanmigo | 초등 학습자도 공식 학교·교육구 제휴나 보호자 배정 등 지정된 경로로 이용할 수 있다. | 해당 경로에서 과제에 대한 단계별 힌트를 받는다. [공식 안내](https://support.khanacademy.org/hc/en-us/articles/14799155077261-Can-I-give-my-students-access-to-Khanmigo) |
 
 ## 1쪽 | 채팅을 마치면 학생에게 무엇이 남을까?
 
