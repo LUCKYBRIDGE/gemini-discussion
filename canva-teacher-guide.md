@@ -119,6 +119,8 @@
 
 **Gem 제공 일정 · 2026년 11월 16일 확인**  Google은 **2027년 6월 1일 또는 그 이후부터** Google Workspace for Education 계정에서 Gem 제공을 종료할 예정이라고 안내한다. 기존 Classroom Gem은 이름·설명·지시문·첨부 자료가 유지된 Gemini 스킬 초안으로 전환되며, 사용하려면 직접 활성화해야 한다. [Google Classroom 교사용 전환 안내](https://support.google.com/edu/classroom/answer/16534159?hl=ko)
 
+**교직원 계정에서 새 Gem 만들기 · 2026년 11월 17일 기준**  Google Workspace for Education 교직원 계정은 새 Gem을 만들고 기존 Gem을 수정·사용할 수 있다. Gemini 웹에서 **설정 및 도움말 → Gems → 새 Gem**을 선택한다. 기관의 외부 공유 정책이 허용하면 ‘링크가 있는 모든 사용자’로 설정해 학교 홈페이지 등에 게시할 수 있다. 11월 17일의 학생 개인 계정 접근 제한은 Classroom에서 해당 개인 계정에 Gem을 배정한 경우에 적용된다. [교육용 계정 전환 일정](https://knowledge.workspace.google.com/admin/generative-ai/gemini-app/about-the-transition-to-skills?hl=en) · [Gem 링크 공유 안내](https://support.google.com/gemini/answer/16504957?hl=ko)
+
 계정별 일정이 다르다. **만 18세 이상 개인 Google 계정**은 2026년 11월 17일부터 Gem을 사용·편집·생성할 수 없고, 12월 17일부터 Gemini 앱에서 Gem에 접근할 수 없다. Classroom에서 학생의 **개인 계정**에 배정한 Gem은 2026년 11월 17일부터 학생이 접근할 수 없다고 안내한다. [Gemini 계정별 전환 일정](https://support.google.com/gemini/answer/18560919?hl=en) · [Google Classroom 학생용 안내](https://support.google.com/edu/classroom/answer/16538778?p=student_notebook_gems)
 
 ## 6쪽 | 채팅 중 교사가 개입할 세 장면
